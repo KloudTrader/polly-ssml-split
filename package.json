@@ -30,6 +30,6 @@
     "tap": "^14.10.5"
   },
   "dependencies": {
-    "polly-text-split": "KloudTrader/polly-text-split"
+    "polly-text-split": "github:KloudTrader/polly-text-split"
   }
 }
