@@ -27,9 +27,9 @@
   },
   "homepage": "https://github.com/oleglegun/polly-ssml-split#readme",
   "devDependencies": {
-    "tap": "^11.1.4"
+    "tap": "^14.10.5"
   },
   "dependencies": {
-    "polly-text-split": "^0.1.4"
+    "polly-text-split": "KloudTrader/polly-text-split"
   }
 }
