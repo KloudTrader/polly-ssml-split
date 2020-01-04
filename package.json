@@ -1,6 +1,6 @@
 {
   "name": "polly-ssml-split",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Splits long texts with SSML tags by batches suitable for working with AWS Polly TTS.",
   "main": "index.js",
   "directories": {
